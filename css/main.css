@@ -100,3 +100,13 @@ main {
     transform: translateX(-25px) !important;
   }
 }
+@media (max-width: 500px) {
+  .close #dark-light {
+    transform: translateX(-24px) !important;
+  }
+}
+@media (max-width: 500px) {
+  .close #dark-light {
+    transform: translateX(-23px) !important;
+  }
+}
