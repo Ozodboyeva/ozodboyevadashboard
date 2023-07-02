@@ -7,7 +7,7 @@ sidebarToggle.addEventListener("click", () => {
   sidebar.classList.toggle("close");
 });
 
-if (innerWidth <= 1300) {
+if (window.innerWidth <= 1300) {
   sidebar.classList.add("close");
 } else {
   sidebar.classList.remove("close");
