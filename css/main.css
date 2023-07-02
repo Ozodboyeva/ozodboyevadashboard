@@ -61,6 +61,42 @@ main {
     width: 900px;
   }
   .close #dark-light {
-    transform: translateX(-20px) !important;
+    transform: translateX(-100px) !important;
+  }
+}
+@media (max-width: 800px) {
+  .close #dark-light {
+    transform: translateX(-90px) !important;
+  }
+}
+@media (max-width: 790px) {
+  .close #dark-light {
+    transform: translateX(-70px) !important;
+  }
+}
+@media (max-width: 760px) {
+  .close #dark-light {
+    transform: translateX(-50px) !important;
+  }
+}
+@media (max-width: 700px) {
+  .close #dark-light {
+    transform: translateX(-40px) !important;
+  }
+}
+@media (max-width: 650px) {
+  .close #dark-light {
+    transform: translateX(-35px) !important;
+  }
+}
+@media (max-width: 600px) {
+  .close #dark-light {
+    transform: translateX(-30px) !important;
+  }
+}
+
+@media (max-width: 550px) {
+  .close #dark-light {
+    transform: translateX(-25px) !important;
   }
 }
