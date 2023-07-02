@@ -66,47 +66,47 @@ main {
 }
 @media (max-width: 800px) {
   .close #dark-light {
-    transform: translateX(-90px) !important;
+    transform: translateX(-95px) !important;
   }
 }
 @media (max-width: 790px) {
   .close #dark-light {
-    transform: translateX(-70px) !important;
+    transform: translateX(-85px) !important;
   }
 }
 @media (max-width: 760px) {
   .close #dark-light {
-    transform: translateX(-50px) !important;
+    transform: translateX(-75px) !important;
   }
 }
 @media (max-width: 700px) {
   .close #dark-light {
-    transform: translateX(-40px) !important;
+    transform: translateX(-60px) !important;
   }
 }
 @media (max-width: 650px) {
   .close #dark-light {
-    transform: translateX(-35px) !important;
+    transform: translateX(-50px) !important;
   }
 }
 @media (max-width: 600px) {
   .close #dark-light {
-    transform: translateX(-30px) !important;
+    transform: translateX(-40px) !important;
   }
 }
 
 @media (max-width: 550px) {
   .close #dark-light {
-    transform: translateX(-25px) !important;
+    transform: translateX(-35px) !important;
   }
 }
 @media (max-width: 500px) {
   .close #dark-light {
-    transform: translateX(-24px) !important;
+    transform: translateX(-103px) !important;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 410px) {
   .close #dark-light {
-    transform: translateX(-23px) !important;
+    transform: translateX(-30px) !important;
   }
 }
